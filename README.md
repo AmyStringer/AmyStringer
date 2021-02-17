@@ -11,4 +11,4 @@ Here's a little about me!
 - 💬 Ask me about R, shiny apps, MATLAB (gasp!), anomalous diffusion, fractional calculus, crop monitoring, and did I mention shiny apps? 
 - 📫 How to reach me: You can reach my by email at aj.stringer@qut.edu.au
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am an advocate for better mental health in general, and opening up conversations about these difficult topics. I've had quite a unique mental health journey and I've written about it in a blog. If you'd like to read about my experiences and how I've coped with them and the experiences of some of friends and colleagues see [Lamey, Ed, Pete and Po](thelameystringer.com). 
+- ⚡ Fun fact: I am an advocate for better mental health in general, and opening up conversations about these difficult topics. I've had quite a unique mental health journey and I've written about it in a blog. If you'd like to read about my experiences and how I've coped with them and the experiences of some of friends and colleagues see [Lamey, Ed, Pete and Po](https://thelameystringer.com/). 
