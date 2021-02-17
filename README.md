@@ -2,7 +2,7 @@
 
 <!--**AmyStringer/AmyStringer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+Here's a little about me! 
 
 - 🔭 I’m currently working on a few different projects. I'm working as a research assistant for both the ARC Centre of Excellence for Mathematics and Statistics (ACEMS) and for the School of Mathematical Sciences at the Queensland University of Technology (QUT) on statistics and shiny app heavy projects, while also studying my MPhil in computational mathematics applied to MRI images of the brain. 
 - 🌱 I’m currently learning how to build a curriculum for training courses in using remote sensing for agricultural monitoring, and also how to use weather data in predictions for plant growth. In my masters, I'm learning about fractional calculus and anomalous diffusion in the brain. 
