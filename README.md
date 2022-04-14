@@ -4,8 +4,8 @@
 
 Here's a little about me! 
 
-- 🔭 The majority of my programming experience is in R and MATLAB. I've had vaious roles using R, and use MATLAB for my master's research. 
-- 🌱 Much of my work experience is in the broad area of "data science" in a range of different research areas. My masters research direction is in computational neuroscience and applying fractional calculus models to MRI images in an attempt to draw out details on brian microstructure.  
+- 🔭 "Good programming is not about what you know, it's about effective google search queries"  
+- 🌱 The majority of my programming experience is in R and MATLAB. I've had vaious roles using R, and use MATLAB for my master's research. I generally work under the broad umbrella of "data science" in a range of different research areas. My masters research direction is then in the area of computational neuroscience. 
 - 👯 In my spare time, I like to make art. The majoirty of my work is geometric, with a lot of dot work for the shading. I recently hosted an exhibition and you can check out my art at `@_lameystringerdraws` on instagram 
 - 🤔 I'm currently on the lookout for more opportunities to enhance my programming skills in R and MATLAB (and python would be a bonus!) in a way that links my previous work experience with data and my masters research area of neuroscience.  
 - 💬 Ask me about R, shiny apps, anomalous diffusion, fractional calculus, and did I mention shiny apps? 
